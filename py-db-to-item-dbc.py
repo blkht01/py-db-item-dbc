@@ -17,7 +17,7 @@ db_config = {
 }
 
 # Define the range for the entries you want to extract
-entry_start = 1
+entry_start = 73840
 entry_end = 999999
 
 # SQL query to fetch data from item_template with a range filter
